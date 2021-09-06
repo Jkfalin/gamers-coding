@@ -1,0 +1,13 @@
+body {
+	background-image: linear-gradient(90deg, red, blue);
+	background-size: cover;
+	text-align: center;
+}
+
+a {
+	color: black;
+}
+
+a: hover {
+	color: white;
+}
