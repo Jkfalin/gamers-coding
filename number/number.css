@@ -2,5 +2,19 @@ body {
 	text-align: center;
 	background-image: linear-gradient(90deg, red, blue);
 	background-size: cover;
+}
 
+p {
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+input {
+	font-family: Arial, Helvectia, sans-serif;
+	font-size: 1.1em;
+}
+
+#guess {
+	border: 1px solid red;
+	width: 30px;
+	text-align: center;
 }
